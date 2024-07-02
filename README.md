@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pircovic&show_icons=true&locale=en" alt="pircovic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pircovic&" alt="pircovic" /></p>
+
+<img src="file:///C:/Users/Nasr/Desktop/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png" alt="coding">
